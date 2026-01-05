@@ -1,32 +1,40 @@
-## 👋 Hello
+👋 Hi
+As front-end developers, we operate as a pair web development team.
 
-We are a two-person web development team focused primarily on **front-end development**.
+💻 What we do
+Create user interfaces that are clean, responsive and easy to navigate
 
-### 💻 What we do
-- Build clean, responsive, and well-structured user interfaces  
-- Work mainly with **HTML, CSS, and JavaScript**  
-- Develop front-end–driven projects with a focus on usability and clarity  
+Utilize HTML, CSS, and JavaScript to build user interfaces
 
-### ⚙️ Workflow
-- Use **AI-assisted tools** to improve speed and consistency  
-- Keep all work custom and manually reviewed  
-- Follow a simple, organized, and disciplined development process  
+Develop projects that are front-end driven and emphasize usability
 
-### 🧩 Back-end
-- Basic back-end knowledge for simple integrations and forms  
-- Continuously improving to better support front-end projects  
+⚙️ Workflow
+Rely on AI-assisted tools to enhance speed and consistency
 
-### 🤝 Team approach
-We combine two complementary styles:
-- **Structure & logic**  
-- **Visual balance & refinement**
+Work custom, manually reviewed, and unique
 
-This balance helps us deliver interfaces that are both reliable and polished.
+Stick to an organized, simple, and consistent development process
 
-### 🎯 Goals
-- Gain real-world experience through practical projects  
-- Improve our skills step by step  
-- Build a strong foundation for future international studies  
+🧩 Back-end
+Basic back-end for simple forms and integrations
 
-### 📫 Contact
-Feel free to reach out for front-end focused web projects.
+Always improving to strengthen support for front-end projects
+
+🤝 Team approach
+We merge two complementary styles:
+
+Structure & logic
+
+Visual balance & refinement
+
+This combination enables us to strengthen interfaces and add polish.
+
+🎯 Goals
+Develop strong, practical skills through projects that provide hands on experience
+
+Continue to enhance our skills incrementally
+
+Create a pathway for future international studies
+
+📫 Contact
+We are happy to take on projects that are centered around web development and front-end delivery.
