@@ -1,40 +1,31 @@
-👋 Hi
-As front-end developers, we operate as a pair web development team.
+## 👋 Hi
+We are a two-person web development team focused on front-end development.
 
-💻 What we do
-Create user interfaces that are clean, responsive and easy to navigate
+## 💻 What we do
+- Create clean, responsive, and easy-to-navigate user interfaces  
+- Use **HTML, CSS, and JavaScript** to build front-end solutions  
+- Develop front-end–driven projects with a strong emphasis on usability  
 
-Utilize HTML, CSS, and JavaScript to build user interfaces
+## ⚙️ Workflow
+- Use **AI-assisted tools** to improve speed and consistency  
+- Keep all work custom, manually reviewed, and well-structured  
+- Follow an organized, simple, and consistent development process  
 
-Develop projects that are front-end driven and emphasize usability
+## 🧩 Back-end
+- Basic back-end knowledge for simple forms and integrations  
+- Continuously improving to better support front-end projects  
 
-⚙️ Workflow
-Rely on AI-assisted tools to enhance speed and consistency
+## 🤝 Team approach
+We combine two complementary styles:
+- **Structure & logic**  
+- **Visual balance & refinement**
 
-Work custom, manually reviewed, and unique
+This balance allows us to deliver interfaces that are both functional and polished.
 
-Stick to an organized, simple, and consistent development process
+## 🎯 Goals
+- Build strong, practical skills through hands-on projects  
+- Improve step by step through real-world experience  
+- Prepare a solid foundation for future international studies  
 
-🧩 Back-end
-Basic back-end for simple forms and integrations
-
-Always improving to strengthen support for front-end projects
-
-🤝 Team approach
-We merge two complementary styles:
-
-Structure & logic
-
-Visual balance & refinement
-
-This combination enables us to strengthen interfaces and add polish.
-
-🎯 Goals
-Develop strong, practical skills through projects that provide hands on experience
-
-Continue to enhance our skills incrementally
-
-Create a pathway for future international studies
-
-📫 Contact
-We are happy to take on projects that are centered around web development and front-end delivery.
+## 📫 Contact
+Open to front-end focused web projects and collaborations.
