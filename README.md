@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hello
 
-<!--
-**imkyude/imkyude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are a two-person web development team focused primarily on **front-end development**.
 
-Here are some ideas to get you started:
+### 💻 What we do
+- Build clean, responsive, and well-structured user interfaces  
+- Work mainly with **HTML, CSS, and JavaScript**  
+- Develop front-end–driven projects with a focus on usability and clarity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Workflow
+- Use **AI-assisted tools** to improve speed and consistency  
+- Keep all work custom and manually reviewed  
+- Follow a simple, organized, and disciplined development process  
+
+### 🧩 Back-end
+- Basic back-end knowledge for simple integrations and forms  
+- Continuously improving to better support front-end projects  
+
+### 🤝 Team approach
+We combine two complementary styles:
+- **Structure & logic**  
+- **Visual balance & refinement**
+
+This balance helps us deliver interfaces that are both reliable and polished.
+
+### 🎯 Goals
+- Gain real-world experience through practical projects  
+- Improve our skills step by step  
+- Build a strong foundation for future international studies  
+
+### 📫 Contact
+Feel free to reach out for front-end focused web projects.
