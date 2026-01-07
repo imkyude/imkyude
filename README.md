@@ -28,4 +28,4 @@ This balance allows us to deliver interfaces that are both functional and polish
 - Prepare a solid foundation for future international studies  
 
 ## 📫 Contact
-Open to front-end focused web projects and collaborations.
+https://www.fiverr.com/sutlukahveyim
